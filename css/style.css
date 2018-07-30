@@ -1,0 +1,277 @@
+body {
+    padding-top: 330px;
+}
+
+.sticky-shrinknav-menu {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    bottom: 0;
+    height: 3.75rem;
+    line-height: 3.75rem;
+    width: 100%;
+    background: rgba(74, 74, 74, 0.5);
+    transition: all 0.5s ease;
+}
+
+.sticky-shrinknav-menu li {
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.sticky-shrinknav-menu li:hover {
+    box-shadow: 0 0 0 1px #fefefe;
+}
+
+.sticky-shrinknav-menu a {
+    color: #fefefe;
+}
+
+.sticky-shrinknav-header-title {
+    transition: all 0.3s ease;
+    position: relative;
+    -webkit-transform: translateY(-1.875rem);
+    -ms-transform: translateY(-1.875rem);
+    transform: translateY(-1.875rem);
+    margin-bottom: 0;
+    color: #fefefe;
+}
+
+.sticky-shrinknav-header {
+    width: 100%;
+    height: 300px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: #2196e3;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    transition: all 0.5s ease;
+}
+
+body.sticky-shrinknav-wrapper {
+    padding-top: 130px;
+}
+
+body.sticky-shrinknav-wrapper .sticky-shrinknav-header {
+    height: 3.75rem;
+    background-color: rgba(23, 121, 186, 1);
+}
+
+body.sticky-shrinknav-wrapper .sticky-shrinknav-header .sticky-shrinknav-header-title {
+    -webkit-transform: scale(0);
+    -ms-transform: scale(0);
+    transform: scale(0);
+    transition: all 0.3s ease;
+}
+
+.responsive-blog-post {
+    margin-bottom: 4rem;
+}
+
+.responsive-blog-post p {
+    color: #8a8a8a;
+}
+
+.responsive-blog-post .button {
+    padding: 0.85rem 3rem;
+    background: #1779ba;
+}
+
+.responsive-blog-post .button:hover {
+    background-color: #146aa3;
+    transition: color 0.3s ease-in;
+}
+
+.responsive-blog-post .individual-post {
+    margin-bottom: 4rem;
+}
+
+.responsive-blog-post h4 {
+    margin-bottom: 0;
+}
+
+.responsive-blog-post h4:hover {
+    text-decoration: underline;
+    transition: color 0.3s ease-in;
+}
+
+@media screen and (max-width: 39.9375em) {
+    .responsive-blog-post h4 {
+        font-size: 1.5rem;
+    }
+}
+
+.responsive-blog-post img {
+    margin-bottom: 1.5rem;
+}
+
+.responsive-blog-post .date {
+    font-size: 0.8rem;
+    color: #8a8a8a;
+}
+
+.pagination-pointed .pagination-pointed-button, .pagination-pointed .current, .pagination-pointed .pagination-previous {
+    position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #2c3840;
+    color: #fff;
+    outline: 0;
+    text-decoration: none;
+    transition: all 0.2s linear;
+}
+
+.pagination-pointed .pagination-pointed-button:hover, .pagination-pointed .current:hover, .pagination-pointed .pagination-previous:hover {
+    background-color: #41525e;
+}
+
+.pagination-pointed .current {
+    background: dodgerblue;
+}
+
+.pagination-pointed .current:hover {
+    background-color: #0077ea;
+}
+
+.pagination-pointed .pagination-next a {
+    border-radius: 4px 0 0 4px;
+    margin-right: 18px;
+}
+
+.pagination-pointed .pagination-next a:hover::after {
+    border-left: 17px solid #41525e;
+}
+
+.pagination-pointed .pagination-next a::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -18px;
+    width: 0;
+    height: 0;
+    border-top: 17px solid transparent;
+    border-bottom: 17px solid transparent;
+    border-left: 17px solid #2c3840;
+    transition: all 0.2s linear;
+}
+
+.pagination-pointed .pagination-previous {
+    border-radius: 0 4px 4px 0;
+    margin-left: 18px;
+}
+
+.pagination-pointed .pagination-previous:hover::after {
+    border-right: 17px solid #41525e;
+}
+
+.pagination-pointed .pagination-previous::before {
+    content: "";
+}
+
+.pagination-pointed .pagination-previous::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -18px;
+    width: 0;
+    height: 0;
+    border-bottom: 17px solid transparent;
+    border-top: 17px solid transparent;
+    border-right: 17px solid #2c3840;
+    transition: all 0.2s linear;
+}
+
+
+
+
+.responsive-blog-footer {
+    background: #4a4a4a;
+    padding: 3rem 3rem;
+    color: white;
+}
+
+@media screen and (max-width: 39.9375em) {
+    .responsive-blog-footer h4 {
+        font-size: 1.5rem;
+    }
+}
+
+.responsive-blog-footer p {
+    color: #8a8a8a;
+}
+
+.responsive-blog-footer .mailing-list {
+    margin-bottom: 1.5rem;
+}
+
+.responsive-blog-footer .mailing-container {
+    margin-bottom: 2rem;
+}
+
+.responsive-blog-footer .about-section, .responsive-blog-footer .tag-section {
+    margin-bottom: 2rem;
+}
+
+.responsive-blog-footer .about-section a, .responsive-blog-footer .tag-section a {
+    color: #1779ba;
+}
+
+.responsive-blog-footer .subscribe-button {
+    background-color: #1779ba;
+}
+
+.responsive-blog-footer .subscribe-button:hover {
+    background-color: #146aa3;
+    transition: color 0.3s ease-in;
+}
+
+.responsive-blog-footer .fa-chevron-circle-up {
+    font-size: 3rem;
+    color: #8a8a8a;
+}
+
+.responsive-blog-footer .fa-chevron-circle-up:hover {
+    color: #b0b0b0;
+    transition: color 0.3s ease-in;
+}
+
+.hero-section {
+    background: url("../img/South Korea Wallpaper.jpg") 50% no-repeat;
+    background-size: cover;
+    height: 30vh;
+    text-align: center;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.hero-section .hero-section-text {
+    color: #fefefe;
+    text-shadow: 1px 1px 2px #0a0a0a;
+}
