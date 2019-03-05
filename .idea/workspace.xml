@@ -3,110 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="202e3ccb-6d03-4857-a702-147ee2a4f289" name="Default" comment="Version 0.0 alpha">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/css/util.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-Hairline.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-HairlineItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/Lato-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Lato/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/Poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/animated.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/screen-reader.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_animated.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/fonts/font-awesome-4.7.0/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/images/bg01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/images/bg02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/images/bg03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/images/icons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/images/icons/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/images/icons/video-16-9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/animate/animate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/js/popper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/js/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/bootstrap/js/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/countdowntime/countdowntime.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/countdowntime/moment-timezone-with-data.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/countdowntime/moment-timezone.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/countdowntime/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/jquery/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/select2/select2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/select2/select2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/select2/select2.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/select2/select2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/iwillseeyousoon/vendor/tilt/tilt.jquery.min.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -143,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="8" />
+          <entry key="html" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="8" />
+          <entry key="HTML" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -158,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="400">
+              <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -200,8 +96,8 @@
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/kmu.html" />
         <option value="$PROJECT_DIR$/travel.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/iwillseeyousoon/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -276,7 +172,7 @@
       <workItem from="1533887825855" duration="36000" />
       <workItem from="1533888098567" duration="132000" />
       <workItem from="1536198566582" duration="14981000" />
-      <workItem from="1551791373842" duration="858000" />
+      <workItem from="1551791373842" duration="969000" />
     </task>
     <task id="LOCAL-00001" summary="Version 0.0 alpha">
       <created>1537108413650</created>
@@ -289,10 +185,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25843000" />
+    <option name="totallyTimeSpent" value="25954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="731" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -401,8 +298,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="400">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
